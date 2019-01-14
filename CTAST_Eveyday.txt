@@ -1,0 +1,23 @@
+
+CTASK4115683 -28-12-2018  @ 8.30 IST By Rama
+
+CTASK4115684  same as above
+
+-----------------------------------------------------------------------------------------------------------------
+CTASK4117850 doubt to be ask to some one
+
+-----------------------------------------------------------------------------------------------------------------
+
+INC8305904-- promotion failed(Deploy and Flip completed)  By Sai on 28-12-2019
+------------------------------------------------------------------------------------------------------------------
+
+For DLR Daylight Promotion has failed from Latest --> Stage INC8335992
+
+(deployment, flip on both stage and load sides completed from Latest repo)
+
+
+657330630  
+
+d9cc59cc507e439480f68e6fe6d02879
+
+http://18.130.17.147:8080/
